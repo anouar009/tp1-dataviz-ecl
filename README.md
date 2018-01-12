@@ -1,5 +1,6 @@
 # tp1-dataviz-ecl
-tp1-dataviz-ecl
-Coix du graphique: buble shart
-    circle
-    Bubble
+# The largest heading
+## The second largest heading
+###### The smallest heading
+**This is bold text**
+*This text is italicized*
